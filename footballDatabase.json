@@ -1,0 +1,39 @@
+[{"id":"1",
+"teamName":"Barcelona",
+"stadium":"Camp Nou",
+"coach":"Xavi",
+"teamColor":"red",
+"ucl":true},
+
+{"id":"2",
+"teamName":"realMadrid",
+"stadium":"santiago bernabeu",
+"coach":"ancelotti",
+"teamColor":"white",
+"ucl":true},
+
+{"id":"3",
+"teamName":"atletico madrid",
+"stadium":"metropolitan",
+"coach":"diegoSimeoni",
+"teamColor":"red",
+"ucl":true},
+
+{"id":"4",
+"teamName":"sevilla",
+"stadium":"ramon sanchez",
+"coach":"jose luis",
+"teamColor":"white",
+"ucl":false},
+
+{"id":"5",
+"teamName":"valencia",
+"stadium":"mestalla",
+"coach":"Ruben Baraja",
+"teamColor":"black",
+"ucl":false}]
+
+
+
+
+
